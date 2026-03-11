@@ -1,0 +1,6 @@
+[
+	{
+		"json_featuretype" : "Webhook_20260311055008.3107697",
+		"_JSON" : "{\"info\":{\"webhookId\":\"26bbab8c15924c1aa11d894881eb8e5b\",\"webhookName\":\"New Portal User\",\"portalURL\":\"https://age12.spatialty.com/arcgis\",\"when\":1773233407359},\"properties\":{},\"events\":[{\"userId\":\"1947b24f85224f7a87764d886c0aec14\",\"username\":\"admin\",\"when\":1773233407357,\"operation\":\"add\",\"source\":\"user\",\"id\":\"testuser1\",\"properties\":{}}]}"
+	}
+]
